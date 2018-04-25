@@ -1,5 +1,5 @@
 # Marketplace Review & Rating extension for Magento 2 by MageArray #
-You can get this extension from [Here](https://www.magearray.com/marketplace-review-rating-extension-for-magento-2.html).
+You can get this extension from Here.
 ## Technical Details ##
 * Name: Marketplace Review & Rating	
 * Compatible With: <br />
@@ -19,7 +19,6 @@ Marketplace Review & Rating extension will allow the customers to rate the vendo
 * If admin approval is required then the reviews given by the customer will undergo admin approval first.
 * If admin approval is not required then the reviews will be accepted directly and no admin interface will be needed in that case. Admin also has the authority to edit these reviews and ratings.
 
-[Read all Features](https://www.magearray.com/marketplace-review-rating-extension-for-magento-2.html)
 
 ## SUPPORT
-We support all our customers through our website. If you have any questions on Extension or need support with its use please [contact us here](https://www.magearray.com/contact/) – we're happy to help you.
+We support all our customers through our website. If you have any questions on Extension or need support with its use please contact us here – we're happy to help you.
